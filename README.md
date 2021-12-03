@@ -8,7 +8,7 @@ The Dot Connector Game - You vs AI [JavaScript]
 <p>
     <a href="https://dotgame.netlify.app/"
     ><img
-      src="https://img.shields.io/static/v1?message=Live%20Demo&color=brighgreen"
+      src="https://img.shields.io/static/v1?label=&message=Live%20Demo&color=brighgreen"
       height="25"
   /></a>
     
